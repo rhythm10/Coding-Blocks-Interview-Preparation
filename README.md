@@ -5,7 +5,7 @@ Follow rules for Contribution :
 
 1.) Proper Naming Convention as per written in respective Question.
 
-2.) In the Beginning of codes, Question should be commented out.
+2.) Question link should be commented in Beginning of codes.
 
 3.) Contribute codes in respective folders.
 
